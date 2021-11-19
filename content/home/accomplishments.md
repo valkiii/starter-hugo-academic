@@ -31,22 +31,39 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/VK6M5WZZC5T8
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2020-01-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: A Complete Reinforcement Learning System (Capstone)
   url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/SCSLRPK2R2QJ
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Prediction and Control with Function Approximation
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/FJTLZTYGALSW
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Sample-based Learning Methods
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/TECZRVEYL8VV
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Fundamentals of Reinforcement Learning
+  url: ""
+
 
 design:
   columns: '2' 
