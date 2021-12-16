@@ -73,17 +73,7 @@ highlight_name: true
 
 ---
 
-
-I am a 
-
-- data scientist 
-- physicist 
-- cook
-- reader
-- runner
-- board games lover.
-
-I am a very curious person who tends to optimize the multitude of tasks that deals with. 
+-----
 
 I currently work as a data scientist at [ABN Amro](https://www.abnamro.nl/nl/prive/index.html) were by applying data science to a multitude of use cases (churning problems, propensity to buy, reccomender systems) I help creating the bank of tomorrow. 
 
@@ -91,3 +81,4 @@ Previously, I worked at [Barclays](https://www.barclays.co.uk), but the nostalgi
 
 I received my PhD from the [School of Mathematical Sciences at Queen Mary University of London](https://www.qmul.ac.uk/maths/), where I worked within the Complex Systems and Networks Research Group under the supervision of [Vito Latora](https://scholar.google.co.uk/citations?user=jXTPa_AAAAAJ&hl=en). 
  
+ -----
