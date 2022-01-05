@@ -39,9 +39,9 @@ experience:
         * Involved in orchestrating the basis of the NBA framework aimed to automatise, improve, and personalise the bank's actions towards our customers - ongoing project. 
 
   - title: Lead Data Scientist
-    company: Dewi
+    company: Research contract with Dewi
     company_url: 'https://dewi.org/'
-    company_logo:
+    company_logo: helium_logo
     location: San Francisco/Amsterdam
     date_start: '2021-03-01'
     date_end: '2021-12-31'

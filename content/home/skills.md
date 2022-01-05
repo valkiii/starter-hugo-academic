@@ -17,37 +17,37 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: 100%
-  icon: python
-  icon_pack: fab
-  name: Python
-
-- description: 100%
+- description: Super hero
   icon: ml
   icon_pack: custom
   name: Machine Learning
+
+- description: Hero
+  icon: python
+  icon_pack: fab
+  name: Python
 
 #- description: 90%
 #  icon: chart-line
 #  icon_pack: fas
 #  name: Statistics
 
-- description: 100%
+- description: Super hero
   icon: network_2
   icon_pack: custom
   name: Network analysis
 
-- description: 40%
+- description: Apprentice
   icon: raspberry-pi
   icon_pack: fab
   name: RaspberryPi
   
-- description: 40%
+- description: Apprentice
   icon: robot
   icon_pack: custom
   name: Reinforcement Learning
 
-- description: 40%
+- description: Apprentice
   icon: databricks-icon
   icon_pack: custom
   name: Databricks

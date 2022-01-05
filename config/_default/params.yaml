@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: L
 
 # SEO
@@ -74,8 +74,8 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - python
-math: true
+  - r
+math: false
 diagram: false
 privacy_pack: false
 edit_page:
