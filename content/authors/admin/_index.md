@@ -36,7 +36,7 @@ education:
     institution: Sapienza, Universita di Roma
     year: 2010
   - course: European Baccalaureate
-    institution: Ecole' Europeennee II Woluwe
+    institution: Ecole Europeennee II Woluwe
     year: 2007
     
 
@@ -73,21 +73,12 @@ highlight_name: true
 
 ---
 
+-----
 
-I am a 
+I currently work as a data scientist at [ABN Amro](https://www.abnamro.nl/nl/prive/index.html) were by applying data science to a multitude of use cases (churning problems, propensity to buy, recommender systems) I help creating the bank of tomorrow. 
 
-- data scientist 
-- physicist 
-- cook
-- reader
-- runner
-- board games lover.
-
-I am a very curious person who tends to optimize the multitude of tasks that deals with. 
-
-I currently work as a data scientist at [ABN Amro](https://www.abnamro.nl/nl/prive/index.html) were by applying data science to a multitude of use cases (churning problems, propensity to buy, reccomender systems) I help creating the bank of tomorrow. 
-
-Previously, I worked at [Barclays](https://www.barclays.co.uk), but the nostalgia for continental Europe stroke strong again and I decided to move to Amsterdam, just to keep my lifestyle "international". 
+Previously, I worked as data scientist at [Barclays](https://www.barclays.co.uk), but in 2021 I decided to come back to the continent and currently live in Amsterdam. 
 
 I received my PhD from the [School of Mathematical Sciences at Queen Mary University of London](https://www.qmul.ac.uk/maths/), where I worked within the Complex Systems and Networks Research Group under the supervision of [Vito Latora](https://scholar.google.co.uk/citations?user=jXTPa_AAAAAJ&hl=en). 
  
+ -----
